@@ -1,7 +1,8 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
-
+//Using tables 
+// Made some changes
 #define TABLE_SIZE 100
 
 // Health Metrics structure
